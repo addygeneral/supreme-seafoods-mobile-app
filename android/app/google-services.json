@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362924639869",
+    "project_id": "supreme-seafood",
+    "storage_bucket": "supreme-seafood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362924639869:android:e74135da9efe2c61a31314",
+        "android_client_info": {
+          "package_name": "com.supreme.restapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362924639869-3nm8uh2uft8miv0flaj42j0cmlkm137a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCWozIq5_fhWIdIn9KAht52UzlH0x2j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362924639869-3nm8uh2uft8miv0flaj42j0cmlkm137a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
